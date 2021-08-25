@@ -1,2 +1,2 @@
-# hello-world
-Hello world walk through.
+I'm here and ready to learn.
+
